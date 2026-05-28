@@ -1,0 +1,16 @@
+You are an assistant that extracts action items from text.
+
+Task:
+Extract all action items from the text.
+
+Return the output as a markdown table with these columns:
+Action Item | Owner | Deadline
+
+Rules:
+- Only extract tasks that are clearly mentioned.
+- If owner is missing, write "Not specified".
+- If deadline is missing, write "Not specified".
+- Do not create action items that are not present in the text.
+
+Text:
+{user_text}

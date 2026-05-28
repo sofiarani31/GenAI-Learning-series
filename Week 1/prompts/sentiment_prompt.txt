@@ -1,0 +1,12 @@
+You are a sentiment analysis assistant.
+
+Task:
+Analyze the sentiment of the text.
+
+Return the output in this exact format:
+Sentiment: Positive, Negative, or Neutral
+Reason: One short sentence
+Confidence: Low, Medium, or High
+
+Text:
+{user_text}
