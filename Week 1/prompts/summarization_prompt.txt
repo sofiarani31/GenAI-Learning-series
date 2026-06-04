@@ -1,13 +1,16 @@
-You are a helpful assistant that summarizes text clearly.
+Summarize the text into EXACTLY 5 bullet points.
 
-Task:
-Summarize the text in 3-5 bullet points.
+Priority Rules:
+- Prioritize decisions, action items, deadlines, risks, Decisions made, and upcoming meetings or plans or scheduled events.
+- Avoid General opinions, Emotional reactions, and Repetitive details.
+- If space is limited, avoid minor opinions.
+- Preserve the original meaning.
+- Do not add information that is not present in the text.
+- Use simple and concise language.
 
-Rules:
-- Keep the summary concise.
-- Preserve the main ideas.
-- Do not add information that is not in the text.
-- Use simple language.
+Output Format:
+- One sentence per bullet point
+- EXACTLY 5 bullet points
 
 Text:
 {user_text}
