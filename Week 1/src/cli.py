@@ -1,6 +1,5 @@
 from rich.console import Console
 from src.prompt_loader import load_prompt
-# from llm_client import invoke_model
 import boto3
 from dotenv import load_dotenv
 from pathlib import Path
