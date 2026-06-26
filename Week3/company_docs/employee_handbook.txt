@@ -1,0 +1,30 @@
+Northstar Analytics
+Employee Handbook
+Version 1.4
+Last Updated: March 12, 2026
+
+Welcome to Northstar Analytics. We build internal data tools for retail, logistics, and financial operations teams. This handbook gives employees a practical overview of how we work, how to ask for help, and what is expected in day-to-day operations.
+
+Work Hours and Availability
+Northstar Analytics follows a flexible work schedule. Employees are expected to be available for team collaboration between 10:00 AM and 4:00 PM India Standard Time on working days. Outside those hours, employees may choose their own schedule as long as project commitments are met and their manager is informed of any conflicts.
+
+Remote Work Policy
+The company is remote friendly. Employees may work from home full time, but they must maintain a reliable internet connection and a quiet environment for meetings involving clients or confidential business discussions. Employees planning to work from another city for more than two weeks should notify their manager and the people operations team.
+
+Leave Policy
+Full-time employees receive 18 days of annual paid leave per calendar year. Sick leave can be taken when employees are unwell and should be reported in the HR portal before the end of the day whenever possible. Planned leave of three or more consecutive working days should be requested at least one week in advance.
+
+Expense Reimbursement
+Employees may request reimbursement for pre-approved business expenses including software subscriptions, client meeting travel, and approved home office equipment. All reimbursement requests must include receipts and should be submitted within 30 days of purchase. Finance processes reimbursements on the second and fourth Friday of each month.
+
+Information Security
+All company devices must use screen locks, disk encryption, and company-approved antivirus software. Sensitive customer data must never be copied into personal cloud drives or sent through personal email accounts. If a device is lost or stolen, the employee must report the incident to the IT helpdesk within one hour of discovery.
+
+Password and Access Rules
+Employees must use unique passwords for all business systems. Passwords should be changed immediately if compromise is suspected. Multi-factor authentication is required for VPN, email, Git hosting, and the customer support platform. Shared credentials are prohibited unless managed through the approved enterprise password vault.
+
+Code of Communication
+We expect communication to be respectful, concise, and documented in the right place. Project decisions should be written in the team workspace rather than left only in chat messages. Urgent incidents should be reported in the incident channel and tagged to the on-call engineer and engineering manager.
+
+Performance Reviews
+Formal performance reviews happen twice a year in June and December. Managers evaluate delivery, collaboration, documentation quality, and growth in role responsibilities. Employees are encouraged to maintain a short monthly record of achievements, blockers, and learning goals to make review discussions easier.

@@ -1,0 +1,21 @@
+Northstar Analytics
+Data Pipeline Runbook
+Team: Data Platform Engineering
+
+Purpose
+This runbook explains how to investigate delayed or failed customer data pipelines.
+
+Normal Schedule
+Most customer pipelines run every 30 minutes. Premium accounts with near-real-time reporting enabled run every 10 minutes. Full warehouse reconciliation jobs run nightly between 1:00 AM and 4:00 AM UTC.
+
+Common Failure Signals
+Warning signs include repeated retry attempts, missing source files, schema mismatch errors, delayed API responses from customer systems, and destination table lock timeouts. A pipeline that has not completed for more than four hours during business time should be treated as an active incident.
+
+Investigation Steps
+First, confirm the last successful run timestamp. Second, inspect the error logs for the failing stage such as extraction, transformation, validation, or load. Third, check whether the issue is isolated to one customer or shared across multiple accounts. Fourth, review recent deployment notes to see whether a new release may have changed pipeline behavior.
+
+Escalation Path
+If the issue affects one customer and there is a known retry path, the on-call data engineer can continue investigation and update support. If the failure affects multiple customers, scheduled exports, or executive dashboards, escalate to the incident manager immediately.
+
+Customer Communication
+When a pipeline delay exceeds four hours, customer success should proactively notify affected customers with the current status, expected next update time, and whether historical data integrity is affected.

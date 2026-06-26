@@ -1,0 +1,24 @@
+Northstar Analytics
+Customer Support Playbook
+Prepared by: Customer Success Operations
+
+Purpose
+This playbook helps support agents respond consistently to customer issues related to dashboards, scheduled reports, login failures, data delays, and billing questions.
+
+Priority Levels
+Priority 1 issues include full platform outage, failed scheduled exports for multiple customers, and login failures affecting executive users before business reviews. Priority 2 issues include incorrect metrics on a dashboard, repeated sync delays beyond four hours, and broken workflow notifications. Priority 3 issues include cosmetic UI issues, one-off report confusion, and minor settings questions.
+
+First Response Targets
+Priority 1 tickets should receive a first response within 15 minutes. Priority 2 tickets should receive a first response within one hour. Priority 3 tickets should receive a first response within one business day.
+
+Handling Login Issues
+If a customer cannot log in, first confirm whether the problem is limited to one user or affects a full account. Check the authentication status page, recent identity provider incidents, and whether the customer recently changed single sign-on settings. Ask whether the error occurs before multi-factor authentication or after entering the one-time code.
+
+Handling Data Delay Complaints
+If a customer reports stale dashboard data, verify the last successful pipeline run in the operations console. Compare the expected refresh schedule against the actual load timestamp. If the data delay is under 30 minutes and the pipeline is still running, inform the customer that the sync is in progress. If the delay exceeds four hours, escalate to the data operations team.
+
+Escalation Rules
+Escalate immediately when there is evidence of data corruption, repeated failed exports, suspected security issues, or customer-facing financial reports showing inconsistent totals. Include account name, affected feature, timestamps, screenshots, and the customer impact summary in the escalation ticket.
+
+Tone Guidelines
+Agents should avoid technical jargon unless the customer is a technical administrator. Responses should clearly state what was checked, what is known, what is still being investigated, and when the next update will be shared.

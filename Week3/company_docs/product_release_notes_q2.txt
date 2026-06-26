@@ -1,0 +1,21 @@
+Northstar Analytics
+Product Release Notes
+Quarter: Q2 2026
+
+Release Summary
+This release focused on dashboard performance, data export reliability, and admin controls for customer workspaces.
+
+New Features
+Workspace administrators can now define custom report delivery windows for scheduled PDF exports. Customers can also tag dashboards by business function, including finance, supply chain, marketing, and operations, making large workspaces easier to organize.
+
+Performance Improvements
+The analytics dashboard now loads up to 35 percent faster for accounts with more than 50 saved reports. Query caching for repeated filter combinations was improved to reduce wait time for month-end reporting teams.
+
+Export Reliability
+The scheduled export service now retries failed PDF exports up to three times before marking the job as failed. Customers will receive an email notification when all retry attempts are exhausted. The operations console now shows the exact failure stage for export jobs, including query generation, rendering, and email delivery.
+
+Admin Controls
+Administrators can now disable external sharing links at the workspace level. Audit logs also include more detailed entries for permission changes, including the acting user, affected role, and timestamp.
+
+Known Limitations
+CSV export for dashboards with more than 200 columns may still time out during peak hours. Custom branding logos larger than 5 MB can fail validation in the workspace settings page.

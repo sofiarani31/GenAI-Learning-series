@@ -1,0 +1,20 @@
+Northstar Analytics
+IT Support FAQ
+
+How do I reset my laptop password?
+Employees should first try the self-service password reset portal. If the reset link fails or the device is offline, contact the IT helpdesk through the internal support form. For security reasons, IT may ask for employee ID, manager name, and the last successful login date before unlocking the account.
+
+What should I do if my company laptop is lost?
+Report the loss to the IT helpdesk and your manager immediately. The incident should be reported within one hour of discovery so the security team can revoke access tokens, disable device sessions, and start remote wipe procedures if supported by the device.
+
+How do I request software access?
+Software access requests must be submitted through the access request workflow in the employee portal. The request should mention the business purpose, system name, and manager approval. Access to production systems is granted only after security review and role verification.
+
+What happens if VPN access is not working?
+First confirm that your internet connection is stable and multi-factor authentication is available on your phone. Restart the VPN client and retry once. If the issue continues, create a support ticket with the error message and a screenshot if possible. High-priority VPN issues are usually acknowledged within 30 minutes during business hours.
+
+Can I install software on my own?
+Employees may install approved productivity tools from the managed software catalog. Any developer tool, browser extension, or file transfer utility not listed in the catalog requires IT review before installation. Unapproved remote desktop tools are not allowed on company machines.
+
+How long does hardware replacement take?
+Standard accessory replacements such as keyboards, mice, and headsets usually take two to four working days. Laptop replacement for damaged or failed devices may take five to seven working days depending on stock and shipping location.

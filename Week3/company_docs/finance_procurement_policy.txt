@@ -1,0 +1,20 @@
+Northstar Analytics
+Finance and Procurement Policy
+
+Purpose
+This policy explains how employees should request purchases, work with vendors, and submit invoices or reimbursement claims.
+
+Purchase Approval Thresholds
+Team leads may approve purchases up to INR 25,000 if the expense is already within the approved team budget. Department heads may approve purchases up to INR 100,000. Any purchase above INR 100,000 requires finance approval and director sign-off before the order is placed.
+
+Preferred Vendors
+Employees should use preferred vendors when available for laptops, cloud credits, office equipment, and collaboration software. If a preferred vendor cannot meet the required timeline or specification, the buyer must document the reason for using an alternative vendor.
+
+Subscription Management
+Recurring software subscriptions must have a named business owner. The owner is responsible for reviewing active seats every quarter and removing unused licenses. Multi-year contracts should not be signed without finance review.
+
+Invoice Submission
+Vendor invoices should be submitted to finance-ops@northstaranalytics.example with the purchase order number, billing contact, and payment due date. Missing purchase order numbers may delay payment processing.
+
+Reimbursement Rules
+Employee reimbursement claims must be submitted within 30 days of purchase. Claims older than 60 days require manager explanation and finance approval unless the delay was caused by a documented system issue.
